@@ -13,7 +13,7 @@ beforeEach((): void => {
 
 const mockOptions = {
   host: 'localhost',
-  user: 'root',
+  user: 'my-fake-user',
   password: 'password123',
   database: 'my-db',
 };
